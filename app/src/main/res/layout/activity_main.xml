@@ -21,7 +21,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <ImageView
+    <com.thomasphillips3.customfancontroller.DialView
         android:id="@+id/dialView"
         android:layout_width="@dimen/imageView_square"
         android:layout_height="@dimen/imageView_square"
