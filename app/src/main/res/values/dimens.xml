@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_padding">16dp</dimen>
+    <dimen name="textView_marginStart">8dp</dimen>
+    <dimen name="textView_marginEnd">8dp</dimen>
+    <dimen name="textView_marginTop">24dp</dimen>
+    <dimen name="imageView_square">200dp</dimen>
+    <dimen name="imageView_margin">8dp</dimen>
+</resources>
